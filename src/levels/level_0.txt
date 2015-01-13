@@ -1,0 +1,11 @@
+level_0
+bgtexture.png
+0 0
+musicfiletorun.ogg
+npc1
+spritetexture1.png
+0 0
+npc2
+spritetexture2.png
+0 0
+/
